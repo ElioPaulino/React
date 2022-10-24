@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T02:32:27.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="HW_cdpAvZS_Z7ctW0V8j" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T02:36:24.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TEevVxl3KiBqfsVdLbUT" version="20.5.1" type="github">
   <diagram id="yXCLzJlP5MU4w34qsbO_" name="Página-1">
     <mxGraphModel dx="3253" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r-ZnVLcA0EpAAAqaAQzC-31" value="&lt;h1&gt;Google Colab&lt;/h1&gt;&lt;h2&gt;Algoritmo de Treinamento do Modelo&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="r-ZnVLcA0EpAAAqaAQzC-31" value="&lt;h1&gt;Google Colab&lt;/h1&gt;&lt;h2&gt;Algoritmo de Treinamento do Modelo de Classificação&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40.5" y="830" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="r-ZnVLcA0EpAAAqaAQzC-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r-ZnVLcA0EpAAAqaAQzC-9">
